@@ -37,10 +37,12 @@
 
 ## 💻 Programming
 
-- Python  
+- Python
+- C
+- C++
+- JAVA
 - JavaScript  
 - HTML / CSS  
-- Scripting  
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
@@ -50,7 +52,9 @@
 
 ## 🧠 Core Computer Science
 
-- Data Structures (Learning)  
+- Data Structures
+- DBMS
+- Data Mining
 - Networking Fundamentals  
 - Operating Systems Basics  
 - Git & GitHub  
@@ -70,10 +74,10 @@ More projects coming soon 🚀
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=whoisabhi-cs&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=whoisabhi-cs&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
